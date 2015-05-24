@@ -14,51 +14,38 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: 
   pic: 1
-  position: Lead Designer
+  position:
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
 
-- name: Larry Parker
+- name: Greg Karp-Neufeld
   pic: 2
-  position: Lead Marketer
+  position:
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+  - title: twitter
+    url: http://twitter.com/gregkn10
+  - title: linkedin
+    url: https://www.linkedin.com/in/gregkn
+  - title: facebook
+    url: https://www.facebook.com/gregkn
+  - title: envelope
+    url: mailto:greg@gregkn.com
 
-- name: Diana Petersen
+- name:
   pic: 3
-  position: Lead Developer
+  position:
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/gregkn10
+  - title: linkedin
+    url: https://www.linkedin.com/in/gregkn
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/gregkn
 
 # Postal address (add as many lines as necessary)
 address:
