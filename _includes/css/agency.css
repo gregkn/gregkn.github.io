@@ -13,10 +13,11 @@ body {
 .text-muted {
     color: #777;
 }
-
+/*This is where you define the circle color */
 .text-primary {
-    color: #{{ site.color.primary }};
+    color: #{{ site.color.blue }};
 }
+
 
 p {
     font-size: 14px;
@@ -27,6 +28,7 @@ p.large {
     font-size: 16px;
 }
 
+/*This is where the color of text (i.e. the footer) is defined */
 a,
 a:hover,
 a:focus,
@@ -36,14 +38,14 @@ a.active {
 }
 
 a {
-    color: #{{ site.color.primary }};
+    color: #{{ site.color.blue }};
 }
 
 a:hover,
 a:focus,
 a:active,
 a.active {
-    color: #{{ site.color.secondary }};
+    color: #{{ site.color.darkerblue }};
 }
 
 h1,
@@ -120,14 +122,14 @@ fieldset[disabled] .btn-primary.active {
 
 .btn-xl {
     padding: 20px 40px;
-    border-color: #{{ site.color.primary }};
+    border-color: #{{ site.color.blue }};
     border-radius: 3px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 18px;
     font-weight: 700;
     color: #fff;
-    background-color: #{{ site.color.primary }};
+    background-color: #{{ site.color.blue }};
 }
 
 .btn-xl:hover,
@@ -135,9 +137,9 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl:active,
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
-    border-color: #{{ site.color.primary }};
+    border-color: #{{ site.color.darkerblue }};
     color: #fff;
-    background-color: #{{ site.color.secondary }};
+    background-color: #{{ site.color.darkerblue }};
 }
 
 .btn-xl:active,
@@ -252,9 +254,10 @@ fieldset[disabled] .btn-xl.active {
         border-radius: 3px;
     }
 
+/*This defines the navbar color... it was #222 */
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color: #07A4D9;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -751,7 +754,7 @@ ul.social-buttons li a {
     line-height: 40px;
     outline: 0;
     color: #fff;
-    background-color: #222;
+    background-color: #{{ site.color.blue }};
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     transition: all .3s;
