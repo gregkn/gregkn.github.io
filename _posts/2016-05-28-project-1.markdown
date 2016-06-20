@@ -1,0 +1,14 @@
+---
+title: Design of Prison Computer Lab
+subtitle: IT Consulting
+layout: default
+modal-id: 1
+date: 2016-05-28
+img: computerlab.jpg
+thumbnail: computerlab-thumbnail.jpg
+alt: image-alt
+project-date: December 2015 - Present
+client: The Last Mile
+category: IT Consulting
+description: During my tenure at ECHO, I was tasked to design and implement a computer lab for California State Prison San Quentin. The purpose of this computer lab is to help incarcerated individuals learn valuable technology and business skills with the hopes to lower recidivism rates. This lab will specifically be used for teaching programming skills using various languages. In order to make this lab secure and in compliance with California Department of Corrections requirements, I secured each Mac Mini workstation using Faronics Deep Freeze and OS X Server's Profile Manager. Additionally, I implemented a process for maintaining the workstations as well as disabling access to certain devices using launch daemons. 
+---

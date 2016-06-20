@@ -1,0 +1,15 @@
+---
+title: Greg KN Website
+subtitle: Website Design
+layout: default
+modal-id: 3
+date: 2016-06-19
+img: site.jpg
+thumbnail: site-thumbnail.jpg
+alt: image-alt
+project-date: June 2016
+client: Greg Karp-Neufeld
+category: Web Development
+description: I made this website for myself using the Jekyll Agency theme. While web design is not my primary practice, this did help me continue to hone my HTML and CSS skills as I did customize parts of the website heavily from the default template.  
+
+---

@@ -1,0 +1,15 @@
+---
+title: Thin Client Mount
+subtitle: Industrial Design
+layout: default
+modal-id: 2
+date: 2011-06-19
+img: tcmount.jpg
+thumbnail: tcmount-thumbnail.jpg
+alt: image-alt
+project-date: Summer 2011
+client: Varsity Technologies
+category: Industrial Design
+description: During my first year at Varsity Technologies, I was tasked to find an elegant way to attach a thin client to the reverse of a monitor. At the time, no clean and elegant solutions existed, so I chose to design my own. I went through multiple prototypes and worked with a local manufacturer to have 300 made for a client. What I was most proud of was that I made the front face of the thin client align with the side of the monitor so that you could power on the thin client without having to reach behind the monitor. All you had to do was place your hand flush with the side of the monitor and lightly press the power button on the thin client.
+
+---
