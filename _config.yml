@@ -16,7 +16,7 @@ color:
 
 # Team names, titles and social links
 people:
-- name: 
+- name:
   pic: 1
   position:
   social:
@@ -25,12 +25,8 @@ people:
   pic: 2
   position:
   social:
-  - title: twitter
-    url: http://twitter.com/gregkn10
   - title: linkedin
     url: https://www.linkedin.com/in/gregkn
-  - title: facebook
-    url: https://www.facebook.com/gregkn
   - title: envelope
     url: mailto:greg@gregkn.com
 
@@ -42,17 +38,13 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/gregkn10
   - title: linkedin
     url: https://www.linkedin.com/in/gregkn
-  - title: facebook
-    url: https://www.facebook.com/gregkn
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line:
+  - line:
 
 # Build settings
 markdown: kramdown
